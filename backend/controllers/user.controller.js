@@ -110,4 +110,3 @@ export const verifyToken = async (req, res) => {
     });
   }
 };
-// update
